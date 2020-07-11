@@ -1,0 +1,7 @@
+[submodule "back-end"]
+	path = back-end
+	url = https://github.com/jakeliyw/blog-koa2
+[submodule "front-end"]
+	path = front-end
+	url = https://github.com/jakeliyw/blog4.0
+	branch = dev
